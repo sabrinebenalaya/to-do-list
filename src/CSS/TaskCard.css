@@ -1,0 +1,31 @@
+.taskCart {
+  width: 500px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: antiquewhite;
+  border-color: gray;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.todolist {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: 0;
+  margin-top: 20px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.inputList{
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-top: 50px;
+}
+
